@@ -1,7 +1,12 @@
 # CS250
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
 Interpreting user needs starts with activiely listening to what a user says they want from the pruduct (i.e. features) and understanding what they need in terms of functionality. Once this information is gather via meetings, surveys, etc, implimentation requires an understanding of how to best incorporate said functionality depending on the product being created (i.e a website or app). Creating "user stories" helpes because it states the needs from a user's perspective. This keeps the focus on delivering real customer value rather than just buildiung features. User stories guide user focused development, set priorities, and ensure every feature has a clear purpose. 
+
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
 When I have developed programs in the past, I like to plan incrementally, with small stories added on at a time. I like to do a brief planning and ranking of priorities of the stories I have created, and start with the most value stories at the beginning. I have only ever developed programs before on my own, never in a group or team setting, and so I hope to include as many Agile processes as I can moving forward. I hope to be a part of a development team and get the opportunity to take ppart in spriont planning and retrospectives to keep constantly improving each cycle. I hope to take part in daily stand ups to stay in sync with said team, as well as learn from my team in any pair programming opportunities that come up throughout my career. I believe these, along with many other Agile processes will help me be more responsive to change and deliver high value product in my Software Development career. 
+
 What does it mean to be a good team member in software development?
+
 Being a good team member means communicating clearly, collaborating openly, and being reliable. It's about supporting teammates, sharing knowledge, and being open to feedback. Good team members respect everyone's ideas, are willing to compromise, and take responsibility for both successes and mistakes. In Agile teams especially, it's important to be flexible, self-organizing, and always willing to help move the project forward, even if it’s outside your exact job description.
